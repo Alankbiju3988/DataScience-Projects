@@ -1,0 +1,8 @@
+{
+    "jupyter.kernels.excludePythonEnvironments": [
+        "c:\\Users\\alank\\anaconda3\\python.exe",
+        "c:\\Users\\alank\\anaconda3\\envs\\oneshot\\python.exe",
+        "c:\\Users\\alank\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "c:\\Users\\alank\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"
+    ]
+}
